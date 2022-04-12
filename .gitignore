@@ -1,0 +1,6 @@
+node_modules
+<<<<<<< HEAD
+config.env
+=======
+.env
+>>>>>>> 50471751f30fd5831972f5465a256b92e2d87d3b
